@@ -1,0 +1,25 @@
+{
+  "edges": [
+    {
+      "paper_id": "SYNTHETIC-001",
+      "source": "Cellular debris",
+      "source_D": "D1",
+      "relation": "INCREASES",
+      "target": "Circulating IL-6",
+      "target_D": "D3",
+      "species": "Mouse",
+      "sample": "Circulation",
+      "condition": "Older mice",
+      "comparator": "Age-matched vehicle controls",
+      "target_attribute": "Circulating IL-6 level",
+      "evidence_type": "Synthetic intervention comparison",
+      "claim_status": "Fictional example",
+      "evidence_span": "Circulating IL-6 was higher in the mock cellular-debris exposure group.",
+      "source_locator": "Results, paragraph 1",
+      "source_level1": "Endogenous danger accumulation / 内源性危险信号积累",
+      "source_level2": "Cellular damage products and debris / 细胞损伤产物与碎片",
+      "target_level1": "Soluble cytokines/可溶性细胞因子",
+      "target_level2": "Interleukins/白细胞介素"
+    }
+  ]
+}

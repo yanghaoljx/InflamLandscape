@@ -1,0 +1,1060 @@
+{
+  "taxonomy": [
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Endogenous danger accumulation / 内源性危险信号积累",
+      "Cellular damage products and debris / 细胞损伤产物与碎片"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Endogenous danger accumulation / 内源性危险信号积累",
+      "Damage-associated extracellular matrix products / 损伤相关细胞外基质产物"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Endogenous danger accumulation / 内源性危险信号积累",
+      "Mislocalized self-nucleic acids / 自身核酸异位"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Endogenous danger accumulation / 内源性危险信号积累",
+      "Proinflammatory protein aggregates / 促炎性蛋白聚集物"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Impaired clearance and inflammatory resolution / 炎症来源清除与炎症消退障碍",
+      "Defective debris and efferocytic clearance / 细胞碎片与胞葬清除受损"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Impaired clearance and inflammatory resolution / 炎症来源清除与炎症消退障碍",
+      "Defective inflammatory resolution / 炎症消退障碍"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Impaired clearance and inflammatory resolution / 炎症来源清除与炎症消退障碍",
+      "Defective senescent-cell clearance / 衰老细胞清除受损"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Metabolic and mitochondrial inflammatory stress / 代谢与线粒体炎症应激",
+      "Cellular lipid and nutrient overload / 细胞脂质与营养负荷过量"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Metabolic and mitochondrial inflammatory stress / 代谢与线粒体炎症应激",
+      "Excess visceral adiposity / 内脏脂肪过度蓄积"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Metabolic and mitochondrial inflammatory stress / 代谢与线粒体炎症应激",
+      "Mitochondrial inflammatory stress / 线粒体炎症应激"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Other / 其他",
+      "Other supported entities / 其他有证据实体"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Persistent microbial and barrier-derived stimulation / 持续性微生物与屏障源性刺激",
+      "Age-associated dysbiosis / 年龄相关微生态失调"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Persistent microbial and barrier-derived stimulation / 持续性微生物与屏障源性刺激",
+      "Barrier dysfunction and microbial translocation / 屏障功能障碍与微生物移位"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Persistent microbial and barrier-derived stimulation / 持续性微生物与屏障源性刺激",
+      "Persistent infection / 持续性感染"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Proinflammatory immune remodelling / 免疫系统促炎性重塑",
+      "Inflammatory myeloid-cell states / 促炎性髓系细胞状态"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Proinflammatory immune remodelling / 免疫系统促炎性重塑",
+      "Proinflammatory clonal haematopoiesis / 促炎性克隆性造血"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Proinflammatory immune remodelling / 免疫系统促炎性重塑",
+      "Proinflammatory lymphoid-cell states / 促炎性淋巴系细胞状态"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Proinflammatory senescent-cell accumulation / 促炎性衰老细胞积累",
+      "Non-immune senescent cells / 非免疫性衰老细胞"
+    ],
+    [
+      "D1",
+      "Inflammaging drivers",
+      "炎性衰老驱动因素",
+      "Why",
+      "Proinflammatory senescent-cell accumulation / 促炎性衰老细胞积累",
+      "Senescent immune cells / 衰老免疫细胞"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Cell death and clearance/细胞死亡与清除",
+      "Autophagic clearance/自噬清除"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Cell death and clearance/细胞死亡与清除",
+      "Cellular and debris clearance/细胞与碎片清除"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Cell death and clearance/细胞死亡与清除",
+      "Inflammatory cell death/炎症性细胞死亡"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Immune regulation and resolution/免疫调控与炎症消退",
+      "Anti-inflammatory signalling/抗炎信号传导"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Immune regulation and resolution/免疫调控与炎症消退",
+      "Immune-cell recruitment/免疫细胞募集"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Immune regulation and resolution/免疫调控与炎症消退",
+      "Pro-resolving signalling/促炎症消退信号"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Inflammasome signalling/炎症小体信号传导",
+      "Cytokine maturation/细胞因子成熟"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Inflammasome signalling/炎症小体信号传导",
+      "Inflammasome activation/炎症小体激活"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Inflammatory amplification/炎症放大",
+      "Oxidative-stress amplification/氧化应激放大"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Inflammatory amplification/炎症放大",
+      "SASP regulation/SASP 调控"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Inflammatory signal transduction/炎症信号转导",
+      "Cytokine-receptor signalling/细胞因子受体信号"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Inflammatory signal transduction/炎症信号转导",
+      "Inflammatory transcriptional signalling/炎症转录信号"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Metabolic and epigenetic regulation/代谢与表观遗传调控",
+      "Immune metabolic reprogramming/免疫代谢重编程"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Metabolic and epigenetic regulation/代谢与表观遗传调控",
+      "Inflammatory epigenetic reprogramming/炎症性表观遗传重编程"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Other / 其他",
+      "Other supported mechanisms / 其他有证据机制"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Pattern recognition/模式识别",
+      "Cytosolic nucleic-acid sensing/胞质核酸感知"
+    ],
+    [
+      "D2",
+      "Mechanisms",
+      "机制",
+      "How",
+      "Pattern recognition/模式识别",
+      "Toll-like receptor signalling/Toll 样受体信号传导"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Chemokines/趋化因子 (MeSH D018925)",
+      "Chemokines, C/C类趋化因子 (MeSH D019744)"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Chemokines/趋化因子 (MeSH D018925)",
+      "Chemokines, CC/CC类趋化因子 (MeSH D019742)"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Chemokines/趋化因子 (MeSH D018925)",
+      "Chemokines, CX3C/CX3C类趋化因子 (MeSH D020523)"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Chemokines/趋化因子 (MeSH D018925)",
+      "Chemokines, CXC/CXC类趋化因子 (MeSH D019743)"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Circulating metabolites/循环代谢物",
+      "Host metabolites/宿主代谢物"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Circulating metabolites/循环代谢物",
+      "Microbial metabolites/微生物代谢物"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Complement and coagulation/补体与凝血",
+      "Coagulation mediators/凝血介质"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Complement and coagulation/补体与凝血",
+      "Complement components/补体组分"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Danger signals/危险信号",
+      "Endogenous DAMPs/内源性损伤相关分子模式"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Extracellular vesicles/细胞外囊泡 (MeSH D000067128)",
+      "Vesicle cargo/囊泡载荷"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Extracellular vesicles/细胞外囊泡 (MeSH D000067128)",
+      "Vesicle classes/囊泡类别"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Hormonal and neural signals/激素与神经信号",
+      "Endocrine mediators/内分泌介质"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Hormonal and neural signals/激素与神经信号",
+      "Neural mediators/神经介质"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Microbial signals/微生物来源信号",
+      "Microbe-derived PAMPs/微生物来源病原相关分子模式"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Other / 其他",
+      "Other supported mediators or transmission processes / 其他有证据介质或传播过程"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Senescence-associated signals/衰老相关信号",
+      "Composite SASP signatures/复合SASP特征"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Soluble cytokines/可溶性细胞因子",
+      "Colony-Stimulating Factors/集落刺激因子 (MeSH D003115)"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Soluble cytokines/可溶性细胞因子",
+      "Interferons/干扰素"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Soluble cytokines/可溶性细胞因子",
+      "Interleukins/白细胞介素"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Soluble cytokines/可溶性细胞因子",
+      "Transforming Growth Factor beta/转化生长因子β (MeSH D016212)"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Soluble cytokines/可溶性细胞因子",
+      "Tumor necrosis factor family/肿瘤坏死因子家族"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Transmission routes/传播途径",
+      "Anatomical and fluid routes/解剖与体液传播途径"
+    ],
+    [
+      "D3",
+      "Inflammatory mediators and inter-organ transmission",
+      "炎症介质与跨器官传播",
+      "By what",
+      "Transmission routes/传播途径",
+      "Inter-organ axes/器官间轴"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Adipose tissue/脂肪组织",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Adipose tissue/脂肪组织",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Bone and marrow/骨与骨髓",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Bone and marrow/骨与骨髓",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Brain and nervous system/脑与神经系统",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Brain and nervous system/脑与神经系统",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Eye/眼 (MeSH D005123)",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Eye/眼 (MeSH D005123)",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Heart and vasculature/心脏与血管",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Heart and vasculature/心脏与血管",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Intestine/肠道",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Intestine/肠道",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Kidney/肾脏",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Kidney/肾脏",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Liver/肝脏",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Liver/肝脏",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Lung/肺",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Lung/肺",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Lymphoid organs/淋巴器官",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Lymphoid organs/淋巴器官",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Other / 其他",
+      "Other target-organ or cellular responses / 其他靶器官或细胞响应"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Pancreas/胰腺",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Pancreas/胰腺",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Skeletal muscle/骨骼肌",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Skeletal muscle/骨骼肌",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Skin/皮肤",
+      "Cellular responses/细胞应答"
+    ],
+    [
+      "D4",
+      "Target organs and cellular responses",
+      "靶器官与细胞响应",
+      "Where",
+      "Skin/皮肤",
+      "Target cells/靶细胞"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Adipose phenotype/脂肪组织表型",
+      "Adipose inflammatory change/脂肪组织炎症性改变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Bone phenotype/骨表型",
+      "Bone inflammatory decline/骨炎症相关退变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Brain phenotype/脑部表型",
+      "Neural functional change/神经功能变化"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Brain phenotype/脑部表型",
+      "Neuroinflammation/神经炎症"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Cardiovascular phenotype/心血管表型",
+      "Cardiac remodeling/心脏重塑"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Cardiovascular phenotype/心血管表型",
+      "Vascular inflammation/血管炎症"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Eye phenotype/眼部表型",
+      "Retinal and choroidal inflammation/视网膜与脉络膜炎症"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "General tissue phenotype/通用组织表型",
+      "Cellular senescence burden/细胞衰老负荷"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "General tissue phenotype/通用组织表型",
+      "Matrix remodeling/基质重塑"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "General tissue phenotype/通用组织表型",
+      "Persistent inflammation/持续性炎症"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Intestinal phenotype/肠道表型",
+      "Barrier and mucosal change/屏障与黏膜改变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Kidney phenotype/肾脏表型",
+      "Renal functional change/肾功能变化"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Kidney phenotype/肾脏表型",
+      "Renal inflammatory change/肾脏炎症性改变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Liver phenotype/肝脏表型",
+      "Hepatic inflammatory change/肝脏炎症性改变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Lung phenotype/肺部表型",
+      "Pulmonary inflammatory change/肺部炎症性改变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Lymphoid phenotype/淋巴器官表型",
+      "Lymphoid inflammatory remodeling/淋巴器官炎症性重塑"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Muscle phenotype/肌肉表型",
+      "Muscle inflammatory decline/肌肉炎症相关功能衰退"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Other / 其他",
+      "Other supported tissue phenotypes / 其他有证据组织表型"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Pancreatic phenotype/胰腺表型",
+      "Islet inflammatory change/胰岛炎症性改变"
+    ],
+    [
+      "D5",
+      "Organ-specific inflammaging phenotypes",
+      "器官炎性衰老表型",
+      "What happens",
+      "Skin phenotype/皮肤表型",
+      "Cutaneous inflammatory ageing/皮肤炎症性衰老"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Cardiovascular disease/心血管疾病",
+      "Cardiac disease/心脏疾病"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Cardiovascular disease/心血管疾病",
+      "Vascular disease/血管疾病"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Eye Diseases/眼部疾病 (MeSH D005128)",
+      "Macular Degeneration/黄斑变性 (MeSH D008268)"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Functional outcome/功能结局",
+      "Cognitive function/认知功能"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Functional outcome/功能结局",
+      "Physical function/身体功能"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Immune outcome/免疫结局",
+      "Infection and vaccine response/感染与疫苗应答"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Kidney disease/肾脏疾病",
+      "Chronic kidney disease/慢性肾脏病"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Liver Diseases/肝脏疾病 (MeSH D008107)",
+      "Steatotic liver disease/脂肪性肝病"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Metabolic Diseases/代谢性疾病 (MeSH D008659)",
+      "Diabetes and metabolic syndrome/糖尿病与代谢综合征"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Musculoskeletal disease/肌肉骨骼疾病",
+      "Bone and joint disease/骨与关节疾病"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Musculoskeletal disease/肌肉骨骼疾病",
+      "Muscle disease/肌肉疾病"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Neoplasms/肿瘤 (MeSH D009369)",
+      "Inflammation-linked malignancy/炎症相关恶性肿瘤"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Neurodegenerative disease/神经退行性疾病",
+      "Dementia spectrum/痴呆谱系"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Neurodegenerative disease/神经退行性疾病",
+      "Movement disorder/运动障碍"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Other / 其他",
+      "Other supported diseases or outcomes / 其他有证据疾病或结局"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Population outcome/人群结局",
+      "Disease accumulation/疾病累积"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Population outcome/人群结局",
+      "Hospitalization/住院 (MeSH D006760)"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Population outcome/人群结局",
+      "Survival and healthspan/生存与健康寿命"
+    ],
+    [
+      "D6",
+      "Age-related diseases and outcomes",
+      "年龄相关疾病与结局",
+      "What outcome",
+      "Respiratory disease/呼吸系统疾病",
+      "Chronic lung disease/慢性肺病"
+    ]
+  ],
+  "relations": [
+    [
+      "CONTRIBUTES_TO",
+      "D1–D5",
+      "H/D5/D6",
+      "部分促成；需有方向性证据；D1 → H 优先使用"
+    ],
+    [
+      "PROMOTES",
+      "D1–D5",
+      "D1–D5",
+      "促进下游过程，不主张直接分子开关"
+    ],
+    [
+      "INCREASES",
+      "D1–D5",
+      "D1–D6",
+      "目标须有具体测量属性、比较组和增加方向"
+    ],
+    [
+      "DECREASES",
+      "D1–D5",
+      "D1–D6",
+      "目标须有具体测量属性、比较组和降低方向"
+    ],
+    [
+      "ACTIVATES",
+      "D1–D4",
+      "D2/D4",
+      "目标为已命名的通路或细胞激活状态"
+    ],
+    [
+      "INHIBITS",
+      "D1–D4",
+      "D2/D4",
+      "目标为已命名的通路或细胞激活状态"
+    ],
+    [
+      "INDUCES",
+      "D1–D4",
+      "D3/D4/D5",
+      "诱导介质表达、细胞响应或组织表型"
+    ],
+    [
+      "RESULTS_IN",
+      "D4/D5",
+      "D5/D6",
+      "需证明下游结果，不能以共现替代"
+    ],
+    [
+      "ASSOCIATED_WITH",
+      "D1–D6/H",
+      "D1–D6/H",
+      "观察性相关或方向不明；不升级为因果"
+    ]
+  ]
+}
